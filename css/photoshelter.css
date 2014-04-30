@@ -1,0 +1,173 @@
+UL.gallery_collection_list, ul.gallery_list {
+    padding: 1.6em 0 0 1.2em;
+    width: 760px;
+}
+
+UL.gallery_collection_list li, ul.gallery_list li {
+    width: 173px;
+    margin: 12px 12px 0 0;
+    padding: 8px 0 0 0;
+    height: 132px;
+}
+
+li.collection a, ul.gallery_list li a {
+    border-bottom: none; 
+    color: #3B3A37;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+	li.collection a:hover, ul.gallery_list li a:hover {
+		background: none repeat scroll 0 0 transparent;
+		border-bottom-color: #888888;
+		color: #888888;
+	}
+
+li.collection, ul.gallery_list li {
+    background: none repeat scroll 0 0 #FFF;
+    border: 1px solid #E7E7E7;
+    border-radius: 4px 4px 4px 4px;
+    display: block;
+    line-height: 1;
+    margin-top: 5px;
+    padding: 4px;
+    position: relative;
+}
+
+li.collection:hover {
+    box-shadow:0px 1px 4px #aaa;
+    -moz-box-shadow: 0px 1px 4px #aaa;
+    -webkit-box-shadow: 0px 1px 4px #aaa	
+}
+
+UL.thumbs LI TABLE TD.slide IMG {
+    margin: 0 0 4px;
+}
+
+h1#photoshelterHead {
+	line-height: 0em !important;
+	padding: 54px 0 0 18px !important;
+}
+
+ul.gallery_thumbs{
+	padding: 1.6em 0 0 1.2em;
+    width: 800px;
+}
+
+ul.gallery_thumbs li {
+    margin: 0 10px 10px 0;
+    width: 165px;
+    float: left;
+    height: 185px;
+    background: none repeat scroll 0 0 #FFF;
+    border: 1px solid #E7E7E7;
+    border-radius: 4px 4px 4px 4px;
+    display: block;
+    line-height: 1;
+    padding: 8px 4px 8px 4px;
+    position: relative; 
+}
+
+ul.gallery_thumbs li:hover {
+	box-shadow:0px 1px 4px #aaa;
+    -moz-box-shadow: 0px 1px 4px #aaa;
+    -webkit-box-shadow: 0px 1px 4px #aaa	
+}
+
+.gallery_thumbs a {
+    border-bottom: none;
+}
+
+.gallery_thumbs .thumb_links {
+	margin: 1px 0 0 42px;
+}
+
+#psImage {
+	text-align: center;
+	width: 900px;
+	margin: 12px 0 0 0;
+}
+
+#psImage .imageWidget {
+	width: auto !important;
+}
+
+#psImage .imageWidget img {
+	margin: 0px auto;
+}
+
+
+
+#page h2{
+	margin: 1.05em 0 0.55em;
+}
+
+
+#cartIcons {
+	border: 1px solid #e7e7e7;
+	margin: 35px 0 0 18px;
+	width: 728px; 
+}
+
+#imageNum {
+	margin: 0px auto;
+	text-align: center;
+}
+
+#photoAll {
+	margin: 52px 0 0 19px;
+}
+
+.ui-widget-overlay {
+    background-color: #AAAAAA;
+    background-image: none;
+    opacity: 0.6;
+}
+
+
+
+
+
+#printAll {
+	width: 900px;
+	margin: 0 0 0px 20px;
+}
+
+.actionBar {
+	border: 3px solid #E4E4E4;
+    border-radius: 5px 5px 5px 5px;
+    color: #666;
+    height: 29px;
+    margin: 40px 0 0 0px;
+    padding: 10px 0;	
+}
+
+	.actionBarLeft {
+	    float: left;
+   		margin: 0 4px 0 10px;
+	    padding: 5px 0 0;
+	}
+	
+	.actionBarRight {
+	    float: right;
+	    margin: 0 10px 0 0;
+	    padding: 4px 0 0 0;
+	}
+	
+	#photoContent {
+		text-align: center;
+	}
+	
+	
+	
+#cartAddSubmit {
+    background: url("http://caseymacphoto.photoshelter.com/img/cart/button-sprite.png") no-repeat scroll left top transparent !important;
+
+}
+
+.psCartSummaryContent .clear {clear: both !important; }
+
+
+#psMainCustom .clear {
+clear: none;	
+}
+
